@@ -45,7 +45,3 @@ with open("defacementlist.txt", "w") as f:
     f.write("\nDominios Inactivos/Dados de Baja/Inaccesibles:\n \n")
     for i in range(len(inactive)):
         f.write(inactive[i] + "\n")
-
-
-
-
