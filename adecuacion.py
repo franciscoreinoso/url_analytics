@@ -58,4 +58,4 @@ if os.path.exists(ruta_archivo):
     os.remove(ruta_archivo)
     #print("Archivo eliminado exitosamente.")
 else:
-    print("El archivo no existe.")
+    print("El archivo no existe. ")
